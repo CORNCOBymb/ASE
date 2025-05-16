@@ -12,3 +12,7 @@ git clone https://github.com/username/reponame.git
 
 https://github.com/CORNCOBymb/ASE.git
 name for the repository used today
+
+git config --global user.name "username"
+git config --global user.email "email"
+(if you haven't link your vscode to account)
