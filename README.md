@@ -7,3 +7,8 @@ The link for function details
 
 https://git-scm.com/downloads
 link for git download(you will need it one day, why not download it now?)
+
+git clone https://github.com/username/reponame.git
+
+https://github.com/CORNCOBymb/ASE.git
+name for the repository used today
