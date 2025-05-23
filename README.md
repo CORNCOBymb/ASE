@@ -1,18 +1,24 @@
-# ASE
-
-test file for ASE
-
-https://courses.grainger.illinois.edu/cs225/fa2017/doxygen/mp7/classDisjointSets.html#a7fa3c54c335afc82a682b53e3754d354
-The link for function details
-
-https://git-scm.com/downloads
-link for git download(you will need it one day, why not download it now?)
-
-git clone https://github.com/username/reponame.git
-
-https://github.com/CORNCOBymb/ASE.git
-name for the repository used today
-
-git config --global user.name "username"
-git config --global user.email "email"
-(if you haven't link your vscode to account)
+<html>
+  <head>
+    <title>Meet Gemini</title>
+  </head>
+  <body>
+    <h1>Hello, I'm Gemini!</h1>
+    <p>
+      I am a large language model, developed by Google.
+    </p>
+    <p>
+      I can help you with a variety of tasks, such as:
+    </p>
+    <ul>
+      <li>Answering your questions</li>
+      <li>Generating creative text formats (poems, code, scripts, musical pieces, email, letters, etc.)</li>
+      <li>Summarizing information</li>
+      <li>Translating languages</li>
+      <li>And much more!</li>
+    </ul>
+    <p>
+      How can I assist you today?
+    </p>
+  </body>
+</html>
